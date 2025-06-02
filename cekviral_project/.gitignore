@@ -1,0 +1,26 @@
+# Virtual Environments
+venv/
+*.venv/
+env/
+cekviral_venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# File log
+*.log
+logs/
+
+# Folder unduhan temporer (seperti dari yt-dlp)
+temp_downloads/
+
+# File output atau temporary lainnya
+output/
+temp/
+tmp/

@@ -1,0 +1,15 @@
+cekviral_venv/
+venv/
+*.venv/
+env/
+__pycache__/
+*.pyc
+*.log
+# .env  # Aktifkan jika .env Anda berisi rahasia
+.git/
+.gitignore
+.vscode/
+.idea/
+temp_downloads/ 
+# (Folder temp_downloads dari yt-dlp biasanya tidak perlu ada di image dari awal)
+# Aplikasi akan membuatnya saat runtime di dalam kontainer jika diperlukan.
